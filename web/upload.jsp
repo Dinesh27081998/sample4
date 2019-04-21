@@ -109,7 +109,7 @@ File f=new File(path);
 
 	<td><textarea name="file" cols="50" rows="10"><%=sb1%></textarea></td>
 </tr>
-<tr><td><b><input type="checkbox" name="BLOWFISH" value="BLOWFISH">TWO FISH &nbsp;&nbsp;&nbsp;<input type="checkbox" name="IDEA" value="IDEA">IDEA &nbsp;&nbsp;&nbsp;</td></tr>
+<tr><td><b><input type="" name="BLOWFISH" value="BLOWFISH">TWO FISH &nbsp;&nbsp;&nbsp;<input type="" name="IDEA" value="IDEA">IDEA &nbsp;&nbsp;&nbsp;</td></tr>
 <tr>
 <td><input type="submit" value="Encrypt"></td>
 		

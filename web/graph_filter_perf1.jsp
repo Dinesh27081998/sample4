@@ -39,7 +39,7 @@ dataset.executeQuery(query);
 JFreeChart chart = ChartFactory.createBarChart3D("Algorithm Performance","Algorithm Names","NanoSeconds",dataset,PlotOrientation.VERTICAL,true, true, false);
 
 
-ChartUtilities.saveChartAsJPEG(new File("D://Graph//filter1.jpg"), chart, 600, 400);
+ChartUtilities.saveChartAsJPEG(new File("F://Graph//filter1.jpg"), chart, 600, 400);
 //response.sendRedirect("graph_view.jsp");
 
 
